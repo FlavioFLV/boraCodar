@@ -29,23 +29,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - Phosphor Icons
 
-**O que aprendemos nesse desafio:**
+**Aprendizados nesse desafio:**
 
 - Organização de Github, readme, imagens, hacks para tabela de readme
 - Input, Select e Button customizados
 - Uso de ícones e fontes customizdas
-- HTML: `form`, `header`, `main`, `section`, `form`, `select`,`img`,
+- HTML: `form`, `header`, `main`, `section`, `select`,`img`,
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
 - Novo DevTools do Edge
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1207675804423978995). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Você pode visualizar o layout do projeto no [Figma] através [DESSE LINK](https://www.figma.com/community/file/1207675804423978995).
